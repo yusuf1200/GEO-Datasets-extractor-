@@ -9,4 +9,4 @@ Run the code in RStudio or R environment - - >
 # Step 4-
 Four new CSV files will be created in the same folder containing data with and without features' names, features' names, and chromosomes names.
 
-# Does not support the datsets of type family series SOFT Files, only aupports datasets SOFT files .
+# Does not support the datsets of type family series SOFT Files, only supports of type datasets SOFT files .
